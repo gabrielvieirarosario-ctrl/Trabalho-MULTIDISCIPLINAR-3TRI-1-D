@@ -31,5 +31,11 @@ A IA está crescendo muito rápido e vai influenciar cada vez mais áreas como s
 
 O ponto principal é que precisamos usar a IA de forma consciente, sempre verificando se ela está sendo justa, segura e acessível para todas as pessoas. Não adianta a tecnologia avançar se ela não for usada de maneira responsável. O futuro da IA depende menos da tecnologia em si e mais das escolhas que nós, humanos, fazemos com ela.
 
-Conclusão:
-De forma resumida, a IA aprende com os dados que recebe — e por isso a qualidade e a variedade desses dados são tão importantes. Se os dados forem ruins ou tendenciosos, a IA pode reproduzir viés; se forem decorados demais, acontece o overfitting e ela não generaliza bem. Os algoritmos de recomendação também mostram esse lado: ajudam a encontrar conteúdos, mas podem nos prender em bolhas digitais. Por isso, privacidade, segurança e guardrails são essenciais. No fim, o futuro da IA depende menos da tecnologia em si e mais do uso consciente e responsável que nós, humanos, fazemos dela.
+7. Qualidade dos dados e limpeza
+Não basta ter muitos dados: eles precisam ser bons. Na prática, os dados vêm bagunçados, com valores faltando, duplicados ou erros de digitação. Se isso vai direto para o modelo, a IA aprende errado. Por isso existe a etapa de limpeza e preparação, que é essencial. Antes de pensar em algoritmo sofisticado, o básico é garantir que os dados façam sentido.
+
+8. Transparência e explicabilidade da IA
+Muitas vezes a IA funciona como uma caixa-preta: dá a resposta, mas não fica claro como chegou nela. Isso é problema quando a decisão envolve crédito, saúde ou seleção de pessoas. A explicabilidade serve para entender quais variáveis pesaram mais na resposta, ajudando a identificar erros e aumentar a confiança no sistema. Se nem quem criou a IA consegue explicar o que ela fez, fica difícil confiar nela.
+
+Conclusão
+Resumindo, a IA depende da qualidade dos dados que recebe. Dados variados evitam viés, dados limpos evitam erros e uma boa separação ajuda a perceber o overfitting. Os algoritmos de recomendação mostram isso no dia a dia, nos colocando em bolhas digitais. Privacidade, guardrails, transparência e explicabilidade entram para garantir um uso mais justo e seguro. No fim, a tecnologia avança rápido, mas o uso responsável continua dependendo das escolhas humanas.
